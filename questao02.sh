@@ -1,3 +1,4 @@
 #!/bin/bash
-cp -r /etcsystemd Joao
+cd ~/joao
+sudo cp -r /etc/systemd .
 ### Nao apague a linha acima! ###
