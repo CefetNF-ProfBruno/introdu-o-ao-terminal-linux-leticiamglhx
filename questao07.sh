@@ -1,3 +1,3 @@
 #!/bin/bash
-sudo rm -r /srv
+sudo rm -rf /srv
 ### Nao apague a linha acima! ###
