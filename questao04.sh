@@ -1,6 +1,4 @@
 #!/bin/bash
-cp -r Maria Home
-mv -r Maria Maria_copia
-cp -r Joao Home
-mv -r Joao Joao_Maria
+cp -r joao ~/joao_copia
+cp -r maria ~/maria_copia
 ### Nao apague a linha acima! ###
