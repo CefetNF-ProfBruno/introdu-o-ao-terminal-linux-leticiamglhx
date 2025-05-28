@@ -1,4 +1,4 @@
 #!/bin/bash
-cp -r /etc/passwd Maria
-cp  -r /etc/group Maria
+cd ~/maria
+sudo cp /etc/passwd /etc/group .
 ### Nao apague a linha acima! ###
